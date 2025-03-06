@@ -28,7 +28,7 @@ Each project involves **real-world datasets, analytical techniques, and machine 
 
 ### **2️⃣ Barcelona Relocation Guide**
 📍 **Goal:** Analyze key factors like air quality, transportation, and crime rates to create a **data-driven relocation guide** for Barcelona.  
-📊 **Data:** Open datasets on **accidents, air quality, population, and public transport**.  
+📊 **Data:** [Barcelona Data from Kaggle](https://www.kaggle.com/datasets/xvivancos/barcelona-data-sets)  
 🛠️ **Tech Used:** `pandas`, `matplotlib`, `seaborn`  
 
 📁 **Files:**  
@@ -39,12 +39,12 @@ Each project involves **real-world datasets, analytical techniques, and machine 
 
 ### **3️⃣ Life Expectancy Analysis**
 📍 **Goal:** Perform **exploratory data analysis (EDA)** and **predictive modeling** on global life expectancy data.  
-📊 **Data:** Covers life expectancy trends across different countries with socioeconomic factors.  
+📊 **Data:** [Life Expectancy Dataset from Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)  
 🛠️ **Tech Used:** `pandas`, `numpy`, `matplotlib`, `sklearn`  
 
 📁 **Files:**  
 - `LifeExpectancySupervised.ipynb` – Data analysis and modeling notebook  
-- `LifeExpectancy.pdf` – Presentation on findings 
+- `LifeExpectancy.pdf` – Presentation on findings  
 - `/Data/LifeExpectancy/` – Life expectancy dataset  
 
 ---
@@ -78,5 +78,33 @@ Each project involves **real-world datasets, analytical techniques, and machine 
 1. Download `workflow.ows`  
 2. Open **Orange3**  
 3. Click **File > Open** and select the `.ows` file  
+
+---
+
+### **6️⃣ Food Retailer: Supermart Grocery Sales Retail Analytics**
+📍 **Goal:** Analyze sales trends, best and worst-selling products, and regional performance.  
+📊 **Data:** [Supermart Grocery Sales Dataset from Kaggle](https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset)  
+🛠️ **Tech Used:** Python for data preprocessing, Excel for analysis.  
+📁 **Files:**  
+- `SupermartSalesAnalysis.ipynb` – Jupyter Notebook with data preprocessing  
+- `/Data/Supermart/` – Contains dataset used for analysis in Excel  
+
+🔎 **Key Findings:**  
+✅ **Preprocessing:** Dropped the first three columns for clean data input  
+✅ **Analysis in Excel:**  
+  - **Bar Chart** 
+  - **Conditinal Formatting** 
+  - **Timelines** for Year/Month filtering  
+
+---
+
+### **7️⃣ Credit Risk: ION Financial Services Project**
+📍 **Goal:** Compare Logistic Regression models for credit risk prediction in the context of wealth management, credit lending, and risk management.  
+📊 **Data:** [Credit Risk Dataset from Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)  
+🛠️ **Tech Used:** Python.  
+📁 **Files:**  
+- `CreditRiskAnalysis.ipynb` – Jupyter Notebook with data analysis and model comparison  
+- `/Data/CreditRisk/` – Contains dataset used for training and testing  
+
 
 Thanks!
