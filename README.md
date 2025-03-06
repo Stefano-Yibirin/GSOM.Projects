@@ -98,7 +98,7 @@ Each project involves **real-world datasets, analytical techniques, and machine 
 
 ---
 
-### **7️⃣ Credit Risk: ION Financial Services Project**
+### **7️⃣ Credit Risk**
 📍 **Goal:** Compare Logistic Regression models for credit risk prediction in the context of wealth management, credit lending, and risk management.  
 📊 **Data:** [Credit Risk Dataset from Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)  
 🛠️ **Tech Used:** Python.  
