@@ -71,7 +71,7 @@ Each project involves **real-world datasets, analytical techniques, and machine 
 🛠️ **Tech Used:** **Orange3**  
 
 📁 **Files:**  
-- `workflow.ows` – Orange3 workflow file  
+- `Grocery_Clustering_Project.ows` – Orange3 workflow file  
 - `/Data/Supermarket/` – fr_data.csv  
 
 📝 **How to Open the Workflow in Orange3:**  
